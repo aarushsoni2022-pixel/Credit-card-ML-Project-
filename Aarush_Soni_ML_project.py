@@ -1756,7 +1756,7 @@
       "metadata": {
         "id": "ocrvQaU36kow"
       },
-      ""execution_count": None,
+      "execution_count": None,
       "outputs": []
     }
   ]
